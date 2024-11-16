@@ -1,4 +1,4 @@
-# neondb-nextjs-test-app
+# supabase-nextjs-test-app
 
 I successfully setup Supabase (PostgreSQL) with Next.js.
 
